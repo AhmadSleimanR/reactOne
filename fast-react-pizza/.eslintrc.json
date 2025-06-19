@@ -1,6 +1,7 @@
 {
   "extends": "react-app",
   "rules": {
-    "no-unused-vars": "warn"
+    "no-unused-vars": "warn",
+    "quotes": "off"
   }
 }
